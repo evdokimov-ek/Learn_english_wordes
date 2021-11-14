@@ -1,8 +1,7 @@
-English,Russian
+English,Русский
 you,ты
 i,я
 the,то
-to,к
 a,а.
 s,с
 it,Это
@@ -90,6 +89,7 @@ where,куда
 were,мы
 take,брать
 then,тогда
+had,было
 or,или
 been,был
 our,наш
@@ -322,7 +322,6 @@ everyone,все
 run,запустить
 wanna,хочу
 hard,жесткий
-ah,ах
 alone,в одиночестве
 myself,себя
 school,школа
@@ -351,6 +350,7 @@ police,полиция
 excuse,извинение
 turn,перемена
 business,бизнес
+case,кейс
 wants,хочет
 says,говорит
 TRUE,ПРАВДА
@@ -494,11 +494,13 @@ office,офис
 question,вопрос
 brought,принес
 yours,ваша
+welcome,Добро пожаловать
 high,высокий
 wow,Вот это да
 couple,пара
 half,половина
 died,умерла
+cool,Круто
 free,бесплатно
 either,или
 seems,кажется
@@ -567,6 +569,7 @@ taken,взятый
 safe,безопасно
 ma,масса
 book,книга
+sent,послал
 white,белый
 hour,час
 anybody,Кто-нибудь
@@ -640,11 +643,11 @@ known,известный
 dream,мечтать
 write,записывать
 million,миллион
-voice,голос
 sweet,милая
 rather,скорее
 felt,чувствовала
 sign,подписать
+lucky,счастливчик
 somewhere,где-то
 bet,держать пари
 o,о
@@ -690,6 +693,7 @@ early,рано
 explain,объяснять
 clean,чистый
 piece,кусок
+yesterday,вчера
 throw,бросать
 picture,рисунок
 land,земля
@@ -816,6 +820,7 @@ handle,ручка
 middle,середина
 buddy,приятель
 paid,оплаченный
+protect,защищать
 using,с использованием
 floor,пол
 ran,победа
@@ -883,6 +888,7 @@ mark,отметка
 tom,Том
 wearing,носить
 crying,плач
+accident,авария
 government,правительство
 eight,восемь
 fell,упал
@@ -898,6 +904,7 @@ detective,детектив
 prison,тюрьма
 major,крупный
 stick,палка
+offer,предложение
 difficult,сложно
 smart,умный
 personal,личный
